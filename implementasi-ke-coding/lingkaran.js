@@ -1,4 +1,7 @@
 
+
+/*LUAS LINGKARAN */
+
 //deklarasi untuk variable phi 3.14
 const phi = 3.14;
 
@@ -14,6 +17,8 @@ const rumusLingkaran = phi * inputJarijari * inputJarijari;
 
 //menampilkan rumus lingkaran
 alert(`Luas Lingkaran${rumusLingkaran}`);
+
+
 
 
 
